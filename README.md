@@ -44,4 +44,4 @@ The dataset includes:
 - Retirees focus on assured returns, while younger investors prioritize capital growth.
 - Most investors monitor their portfolios monthly.
 
-![Matrix Table](images/matrix_table.png)
+![Stock Market Investment Analysis table](Screenshot 2024-12-01 212046.png)
